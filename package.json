@@ -1,14 +1,14 @@
 {
     "name": "typescript-template",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Simple TypeScript template",
     "main": "build/index.js",
     "repository": "git@github.com:KhushrajRathod/typescript-template.git",
     "author": "Khushraj Rathod <khushraj.rathod@gmail.com>",
     "license": "GPL-3.0",
     "devDependencies": {
-        "ts-node": "^9.1.1",
-        "typescript": "^4.2.4"
+        "ts-node": "9.1.1",
+        "typescript": "4.2.4"
     },
     "scripts": {
         "build": "tsc",
